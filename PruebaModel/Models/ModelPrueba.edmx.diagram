@@ -6,7 +6,7 @@
     <edmx:Diagrams>
       <Diagram DiagramId="ce6851cb11614940b986d17e9b11106f" Name="Diagram1" >
         <EntityTypeShape EntityType="ModelPrueba.Photo" Width="1.5" PointX="2" PointY="1.25" />
-        <EntityTypeShape EntityType="ModelPrueba.Comment" Width="1.5" PointX="5.125" PointY="3.125" />
+        <EntityTypeShape EntityType="ModelPrueba.Comment" Width="1.5" PointX="5.375" PointY="3" />
         <AssociationConnector Association="ModelPrueba.PhotoComment" />
       </Diagram>
     </edmx:Diagrams>
